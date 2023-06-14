@@ -56,7 +56,7 @@
   /* HOME BUTTON ICON */
   --home-icon: url(https://raw.githubusercontent.com/obliv0nisnice/refactored-train/main/E1_beautiful_hacker_woman_bot_860f3a75_51b7_4a26_a8bd_78f746c9137f_2e0090d260.png?token=GHSAT0AAAAAACD5IUZ5COAKITU5KGGYY6QWZEJ2GWA); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
-  --home-size: 40px; /* home button icon size [default: 40px] */
+  --home-size: 60px; /* home button icon size [default: 40px] */
 
   /* CHANNEL COLORS */
   --channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
